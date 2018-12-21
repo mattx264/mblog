@@ -1,12 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Wysiwyg is very popular and easy to setup there is few that is free and same pricy.
 ---
-
-wysiwyg is very popular and easy to setup there is few that is free and same pricy.
-
-
-
 
 This section is how to setup your one wysiwyg.
 first option is to make document as editable
